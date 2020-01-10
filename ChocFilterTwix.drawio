@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-23T13:16:12.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="QJ9Z6T8TO11Bri6EDFR2" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2020-01-10T18:41:32.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="0vMOrH8sC7eGs5AYxTU6" version="12.4.3" type="github" pages="1">
   <diagram id="ILspVHVsT8qx_DbT6DRt" name="Page-1">
-    <mxGraphModel dx="872" dy="2476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2236" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -324,8 +324,8 @@
         <mxCell id="EKbMAt9sdjQ3x5RYB2Aw-105" value="&lt;font style=&quot;font-size: 20px&quot;&gt;VAFb35160209 (на пищалку и в блоке)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="1100" width="430" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="EKbMAt9sdjQ3x5RYB2Aw-109" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Датчик&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2880" y="15" width="120" height="20" as="geometry"/>
+        <mxCell id="EKbMAt9sdjQ3x5RYB2Aw-109" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Датчик ПОСЛЕ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2855" y="15" width="170" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="EKbMAt9sdjQ3x5RYB2Aw-110" value="&lt;font style=&quot;font-size: 20px&quot;&gt;PEPm35160205&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2880" y="45" width="120" height="20" as="geometry"/>
@@ -431,6 +431,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EKbMAt9sdjQ3x5RYB2Aw-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EKbMAt9sdjQ3x5RYB2Aw-139" target="EKbMAt9sdjQ3x5RYB2Aw-150">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2770" y="571"/>
+              <mxPoint x="2770" y="866"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EKbMAt9sdjQ3x5RYB2Aw-139" value="&lt;font style=&quot;font-size: 20px&quot;&gt;PAHH35160205&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2810" y="560" width="160" height="20" as="geometry"/>
         </mxCell>
@@ -442,6 +450,9 @@
         </mxCell>
         <mxCell id="EKbMAt9sdjQ3x5RYB2Aw-148" value="&lt;span style=&quot;font-size: 20px&quot;&gt;запуск помпы (&lt;/span&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;MPSt35160108)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2790" y="750" width="160" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="EKbMAt9sdjQ3x5RYB2Aw-150" value="&lt;span style=&quot;font-size: 20px&quot;&gt;запуск темпера (&lt;/span&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;MPSt35160201)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2790" y="830" width="160" height="70" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
