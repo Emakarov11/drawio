@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T10:17:10.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="YnwgWjikD1cPuVlYQlTq" version="14.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-15T10:47:05.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="OCMJXQiWMooXQXN2719J" version="14.3.0" type="github" pages="2">
   <diagram id="nr81iyPofZqEeCW_vUlA" name="Page-1">
     <mxGraphModel dx="9993" dy="2311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4656,7 +4656,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wckURhpExRXk4b7mFBKN" name="Page-2">
-    <mxGraphModel dx="3343" dy="-13" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7478" dy="-13" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Y_Nmefe8ARQMSQ2VWRDj-0" />
         <mxCell id="Y_Nmefe8ARQMSQ2VWRDj-1" parent="Y_Nmefe8ARQMSQ2VWRDj-0" />
@@ -4972,6 +4972,237 @@
         </mxCell>
         <mxCell id="wjNhnZZ5nCqPu7b2jdZC-93" value="&lt;font style=&quot;font-size: 20px&quot;&gt;3208M0140&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
           <mxGeometry x="-1315" y="1730" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-94" value="S4CP32020001&lt;br&gt;CIP Egg Mix T. Step 4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2096" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1" source="wjNhnZZ5nCqPu7b2jdZC-95" target="wjNhnZZ5nCqPu7b2jdZC-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1590" y="1330" />
+              <mxPoint x="-1590" y="1880" />
+              <mxPoint x="-645" y="1880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-95" value="HBCP32020001" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2020" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" source="wjNhnZZ5nCqPu7b2jdZC-97" target="wjNhnZZ5nCqPu7b2jdZC-95" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-97" value="S2CP32020001&lt;br&gt;CIP Egg Mix T. Step 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2320" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" target="wjNhnZZ5nCqPu7b2jdZC-95" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2200" y="1410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-100" value="S4CP32020001&lt;br&gt;CIP Egg Mix T. Step 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2320" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-103" value="VPOp32020117&lt;br&gt;Auto cond EggSyr mix T. flush water" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-1924" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-104" value="Q" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="wjNhnZZ5nCqPu7b2jdZC-105" target="wjNhnZZ5nCqPu7b2jdZC-103" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-105" value="TON" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2091" y="1535" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" source="wjNhnZZ5nCqPu7b2jdZC-107" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2091" y="1545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-107" value="S1CP32020001&lt;br&gt;CIP Egg Mix T Step1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2331" y="1515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2091" y="1545" as="targetPoint" />
+            <mxPoint x="-2211" y="1705.0000000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-2151" y="1705" />
+              <mxPoint x="-2151" y="1545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-109" value="3S" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-0.4872" relative="1" as="geometry">
+            <mxPoint x="-2092" y="1635" as="targetPoint" />
+            <mxPoint x="-2131" y="1635" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2091" y="1545" as="targetPoint" />
+            <mxPoint x="-2211" y="1785.0000000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-2151" y="1785" />
+              <mxPoint x="-2151" y="1545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-112" value="IN" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.013;entryY=0.096;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" target="wjNhnZZ5nCqPu7b2jdZC-105" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="0.687" relative="1" as="geometry">
+            <mxPoint x="-2211" y="1625.0000000000002" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-113" value="&lt;font style=&quot;font-size: 20px&quot;&gt;3202XCV0117&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2128.5" y="1485" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-114" value="S3CP32020001&lt;br&gt;005511&lt;br&gt;CIP Egg Mix T. Step 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2331" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-115" value="S2CP32020001&lt;br&gt;CIP Egg Mix T. Step 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2331" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-116" value="S4CP32020001&lt;br&gt;CIP Egg Mix T. Step 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2331" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-117" value="S5CP32020001&lt;br&gt;CIP Egg Mix T. Step 5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2930" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-118" value="HBRst020000" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2750" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;fontColor=#000000;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1" source="wjNhnZZ5nCqPu7b2jdZC-119" target="wjNhnZZ5nCqPu7b2jdZC-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-119" value="Rst_020000_B_L&lt;br&gt;002414&lt;br&gt;Reset failure" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-3210" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-120" value="S5CP32020001&lt;br&gt;CIP Egg Mix T. Step 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-3210" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;fontColor=#000000;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1" source="wjNhnZZ5nCqPu7b2jdZC-121" target="wjNhnZZ5nCqPu7b2jdZC-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-121" value="WALL32020106&lt;br&gt;000863&lt;br&gt;LL_Alarm Mixing T weight" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2954" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;fontColor=#000000;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1" source="wjNhnZZ5nCqPu7b2jdZC-122" target="wjNhnZZ5nCqPu7b2jdZC-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-122" value="|P|" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=30;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-3090" y="1400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-126" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Reset LL&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2980" y="1260" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-127" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Запускает 3202М0111 на Low потом на High Speed&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-3064" y="1505" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-128" value="VPOp32020116&lt;br&gt;City water to egg Mixer valve" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2749" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;fontColor=#000000;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1" source="wjNhnZZ5nCqPu7b2jdZC-129" target="wjNhnZZ5nCqPu7b2jdZC-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-129" value="S5CP32020001&lt;br&gt;CIP Egg Mix T. Step 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-3159" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-131" value="&lt;font style=&quot;font-size: 20px&quot;&gt;3202XCV0116&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-2986.5" y="1600" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-132" value="S6CP32020001&lt;br&gt;CIP Egg Mix T. Step 6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-3790" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-133" value="AcDA020000_B_L&lt;br&gt;002278&lt;br&gt;Drain Auto Dosing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-3630" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;fontColor=#000000;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1" source="wjNhnZZ5nCqPu7b2jdZC-134" target="wjNhnZZ5nCqPu7b2jdZC-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-134" value="OpDM020000_B_L&lt;br&gt;002079&lt;br&gt;Operator request" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-3790" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;fontColor=#000000;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1" source="wjNhnZZ5nCqPu7b2jdZC-136" target="wjNhnZZ5nCqPu7b2jdZC-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-136" value="AIDM020000_B_L&lt;br&gt;002179&lt;br&gt;Operator aliwed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-3790" y="1395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;fontColor=#000000;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1" source="wjNhnZZ5nCqPu7b2jdZC-138" target="wjNhnZZ5nCqPu7b2jdZC-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;fontColor=#000000;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1" source="wjNhnZZ5nCqPu7b2jdZC-138" target="wjNhnZZ5nCqPu7b2jdZC-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;fontColor=#000000;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1" target="wjNhnZZ5nCqPu7b2jdZC-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3850" y="1575" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-138" value="S6CP32020001&lt;br&gt;CIP Egg Mix T. Step 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-3980" y="1395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;fontColor=#000000;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1" source="wjNhnZZ5nCqPu7b2jdZC-142" target="wjNhnZZ5nCqPu7b2jdZC-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-142" value="S6CP32020001&lt;br&gt;CIP Egg Mix T. Step 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-3800" y="1545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-143" value="AcDM020000_B_L&lt;br&gt;002279&lt;br&gt;Drain Man Dosing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-3630" y="1545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-146" value="&lt;font style=&quot;font-size: 20px&quot;&gt;ВСякие условия&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-4020" y="1565" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-147" value="VPOp32020104&lt;br&gt;Cond auto Egg syrop supply valve" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-3630" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;fontColor=#000000;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1" source="wjNhnZZ5nCqPu7b2jdZC-148" target="wjNhnZZ5nCqPu7b2jdZC-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-148" value="S6CP32020001&lt;br&gt;CIP Egg Mix T. Step 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-3930" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-150" value="&lt;font style=&quot;font-size: 20px&quot;&gt;3202XCV0104&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-3822.5" y="1630" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-151" value="S7CP32020001&lt;br&gt;CIP Egg Mix T. Step 7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-4590" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-152" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Confirm button egg syrop&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-4666.25" y="1280" width="272.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;fontColor=#000000;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1" source="wjNhnZZ5nCqPu7b2jdZC-153" target="wjNhnZZ5nCqPu7b2jdZC-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-153" value="S7CP32020001&lt;br&gt;CIP Egg Mix T. Step 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-4600" y="1335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;fontColor=#000000;" edge="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1" source="wjNhnZZ5nCqPu7b2jdZC-154" target="wjNhnZZ5nCqPu7b2jdZC-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-154" value="AcFCP32020000&lt;br&gt;002292&lt;br&gt;Button Egg syrop full CIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-4770" y="1335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-155" value="AICNF32020000&lt;br&gt;005501&lt;br&gt;Button cnofirm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-4420" y="1335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;fontColor=#000000;" edge="1" source="wjNhnZZ5nCqPu7b2jdZC-159" target="wjNhnZZ5nCqPu7b2jdZC-160" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-159" value="S7CP32020001&lt;br&gt;CIP Egg Mix T. Step 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-4690" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-160" value="VPOp32020112&lt;br&gt;cond auto EggSyr to Mixer valve" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-4510" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-161" value="&lt;font style=&quot;font-size: 20px&quot;&gt;3202XCV0112&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-4666.25" y="1430" width="272.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-162" value="S8CP32020001&lt;br&gt;CIP Egg Mix T. Step 8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-5470" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjNhnZZ5nCqPu7b2jdZC-163" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Ничего не запускается&lt;br&gt;аналог Complete&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="Y_Nmefe8ARQMSQ2VWRDj-1">
+          <mxGeometry x="-5540" y="1280" width="272.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
