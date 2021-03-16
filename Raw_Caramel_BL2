@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T15:04:48.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="1dT1aOrvMutaCRtaMDtB" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T17:57:39.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="On5KrkcSjQtLcoBjlTVP" version="14.4.8" type="github">
   <diagram id="akHkdOR-lAPZsGf_VJxO" name="Page-1">
-    <mxGraphModel dx="3076" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3685" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,85 +266,85 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-103" value="AcC132510300&lt;br&gt;004246&lt;br&gt;Button Raw Caramel Milk CIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-940" y="1480" width="120" height="60" as="geometry" />
+          <mxGeometry x="-300" y="1495" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" source="pyc0e8YHPOAbfdBveA92-105" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-602" y="1510" as="targetPoint" />
+            <mxPoint x="38" y="1525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-105" value="S4C132510300&lt;br&gt;CIP Milk Step 3: CIP Drain" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="1480" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="1495" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-106" target="pyc0e8YHPOAbfdBveA92-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-106" value="TON" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="1480" width="70" height="130" as="geometry" />
+          <mxGeometry x="40" y="1495" width="70" height="130" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" source="pyc0e8YHPOAbfdBveA92-108" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-601" y="1580" as="targetPoint" />
+            <mxPoint x="39" y="1595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-108" value="S4TSP32510300 x 1s&lt;br&gt;404047&lt;br&gt;CIP Step 4: Emptying Max time SP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="1550" width="130" height="60" as="geometry" />
+          <mxGeometry x="-150" y="1565" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-109" target="pyc0e8YHPOAbfdBveA92-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-109" value="LE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1060" y="1445" width="70" height="130" as="geometry" />
+          <mxGeometry x="-420" y="1460" width="70" height="130" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1110" y="1545" as="sourcePoint" />
-            <mxPoint x="-1060" y="1545" as="targetPoint" />
+            <mxPoint x="-470" y="1560" as="sourcePoint" />
+            <mxPoint x="-420" y="1560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="pyc0e8YHPOAbfdBveA92-113" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1063.0000000000005" y="1475" as="targetPoint" />
+            <mxPoint x="-423.00000000000045" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-113" value="LEPm32510202&lt;br&gt;400614&lt;br&gt;Raw Caramel tank level" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1250" y="1445" width="140" height="60" as="geometry" />
+          <mxGeometry x="-610" y="1460" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-115" value="50" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-1150" y="1535" width="40" height="20" as="geometry" />
+          <mxGeometry x="-510" y="1550" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-116" target="pyc0e8YHPOAbfdBveA92-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-116" value="RsC132510300&lt;br&gt;004334&lt;br&gt;Reset CIP Milk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="1515" width="130" height="60" as="geometry" />
+          <mxGeometry x="140" y="1530" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-117" target="pyc0e8YHPOAbfdBveA92-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-117" value="AutoCIP_NewLogic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="1515" width="130" height="60" as="geometry" />
+          <mxGeometry x="310" y="1530" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-118" value="RsC132510300&lt;br&gt;004334&lt;br&gt;Reset CIP Milk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="1515" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-122" target="pyc0e8YHPOAbfdBveA92-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-122" value="RsC132510300&lt;br&gt;004334&lt;br&gt;Reset CIP Milk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="1385" width="130" height="60" as="geometry" />
+          <mxGeometry x="-70" y="1400" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-123" target="pyc0e8YHPOAbfdBveA92-117">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-350" y="1550" as="targetPoint" />
+            <mxPoint x="290" y="1565" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-350" y="1415" />
-              <mxPoint x="-350" y="1545" />
+              <mxPoint x="290" y="1430" />
+              <mxPoint x="290" y="1560" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pyc0e8YHPOAbfdBveA92-123" value="AcC132510300&lt;br&gt;004246&lt;br&gt;Button Raw Caramel Milk CIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="1385" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
