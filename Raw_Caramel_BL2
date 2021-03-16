@@ -1,1 +1,352 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T14:28:43.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="14.4.8" etag="EJt9zzIM1f52aajIj6QW" type="github"><diagram id="akHkdOR-lAPZsGf_VJxO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-16T15:04:48.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="1dT1aOrvMutaCRtaMDtB" version="14.4.8" type="github">
+  <diagram id="akHkdOR-lAPZsGf_VJxO" name="Page-1">
+    <mxGraphModel dx="3076" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pyc0e8YHPOAbfdBveA92-2" value="S1C132510300&lt;br&gt;CIP Milk Step 1: Filling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="650" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-4" target="pyc0e8YHPOAbfdBveA92-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-4" value="RS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="90" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-5" value="SET" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-6" target="pyc0e8YHPOAbfdBveA92-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-6" value="AutoCIP_NewLogic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="380" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-8" target="pyc0e8YHPOAbfdBveA92-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-8" value="S4C132510300&lt;br&gt;CIP Milk Step 3: CIP Drain" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="220" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-11" target="pyc0e8YHPOAbfdBveA92-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-11" value="S3C132510300&lt;br&gt;CIP Milk Step 3: CIP Pump Circulation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-13" target="pyc0e8YHPOAbfdBveA92-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-13" value="S2C132510300&lt;br&gt;CIP Milk Step 2: Prod Pump Circulation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-15" target="pyc0e8YHPOAbfdBveA92-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-15" value="S1C132510300&lt;br&gt;CIP Milk Step 1: Filling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-17" target="pyc0e8YHPOAbfdBveA92-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-17" value="AcC132510300&lt;br&gt;004246&lt;br&gt;Button Raw Caramel Milk CIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-34" value="RES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.06;entryY=0.889;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-25" target="pyc0e8YHPOAbfdBveA92-4">
+          <mxGeometry x="0.937" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-25" value="CIP51StopActive&lt;br&gt;004223&lt;br&gt;CIP 51 Stop is active" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-40" value="S2C132510300&lt;br&gt;CIP Milk Step 2: Prod Pump Circulation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-42" target="pyc0e8YHPOAbfdBveA92-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-42" value="RS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="390" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-220" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-45" value="AcC132510300&lt;br&gt;004246&lt;br&gt;Button Raw Caramel Milk CIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-50" target="pyc0e8YHPOAbfdBveA92-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-50" value="DiLS32510203&lt;br&gt;100117&lt;br&gt;HH_Level, Raw Caram tank" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-51" target="pyc0e8YHPOAbfdBveA92-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-51" value="GT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="480" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-260" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-52" value="S1LSP32510202&lt;br&gt;404052&lt;br&gt;STEP1: Raw caramel CIP Level SP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="550" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-263" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-53" value="LEPm32510202&lt;br&gt;400614&lt;br&gt;Raw Caramel tank level" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="480" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-56" target="pyc0e8YHPOAbfdBveA92-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-56" value="AcC132510300&lt;br&gt;004246&lt;br&gt;Button Raw Caramel Milk CIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-61" value="SET" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-57" target="pyc0e8YHPOAbfdBveA92-42">
+          <mxGeometry x="0.2491" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-57" value="S1C132510300&lt;br&gt;CIP Milk Step 1: Filling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-62" value="AcC132510300&lt;br&gt;004246&lt;br&gt;Button Raw Caramel Milk CIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-64" value="RES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-63">
+          <mxGeometry x="0.7647" relative="1" as="geometry">
+            <mxPoint x="248" y="530" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-63" value="CIP51StopActive&lt;br&gt;004223&lt;br&gt;CIP 51 Stop is active" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="529.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-66" value="S3C132510300&lt;br&gt;CIP Milk Step 3: CIP Pump Circulation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="pyc0e8YHPOAbfdBveA92-68" target="pyc0e8YHPOAbfdBveA92-66" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-68" value="RS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="680" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="pyc0e8YHPOAbfdBveA92-70" target="pyc0e8YHPOAbfdBveA92-72" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-70" value="AcC132510300&lt;br&gt;004246&lt;br&gt;Button Raw Caramel Milk CIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-71" value="SET" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="pyc0e8YHPOAbfdBveA92-68" parent="1">
+          <mxGeometry x="0.2491" relative="1" as="geometry">
+            <mxPoint x="-120" y="710" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-72" target="pyc0e8YHPOAbfdBveA92-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-72" value="S2C132510300&lt;br&gt;CIP Milk Step 2: Prod Pump Circulation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="pyc0e8YHPOAbfdBveA92-74" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-230" y="819.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-74" value="AcC132510300&lt;br&gt;004246&lt;br&gt;Button Raw Caramel Milk CIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-75" value="RES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="pyc0e8YHPOAbfdBveA92-76" parent="1">
+          <mxGeometry x="0.7647" relative="1" as="geometry">
+            <mxPoint x="-52.000000000000455" y="819.9999999999998" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-76" value="CIP51StopActive&lt;br&gt;004223&lt;br&gt;CIP 51 Stop is active" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-78" value="TON" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="680" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.801;entryDx=0;entryDy=0;fontSize=20;entryPerimeter=0;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-79" target="pyc0e8YHPOAbfdBveA92-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-79" value="0S" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="750" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="820.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-82" value="S4C132510300&lt;br&gt;CIP Milk Step 3: CIP Drain" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="pyc0e8YHPOAbfdBveA92-84" target="pyc0e8YHPOAbfdBveA92-82" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-84" value="RS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="970" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="pyc0e8YHPOAbfdBveA92-86" target="pyc0e8YHPOAbfdBveA92-89" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-86" value="AcC132510300&lt;br&gt;004246&lt;br&gt;Button Raw Caramel Milk CIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-87" value="SET" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.047;entryY=0.183;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" target="pyc0e8YHPOAbfdBveA92-84" parent="1" source="pyc0e8YHPOAbfdBveA92-94">
+          <mxGeometry x="0.552" relative="1" as="geometry">
+            <mxPoint x="-430" y="1000" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" source="pyc0e8YHPOAbfdBveA92-89" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-602" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-89" value="S3C132510300&lt;br&gt;CIP Milk Step 3: CIP Pump Circulation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-92" value="RES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="pyc0e8YHPOAbfdBveA92-93" parent="1">
+          <mxGeometry x="0.8182" relative="1" as="geometry">
+            <mxPoint x="-362.00000000000045" y="1109.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-440" y="1240" />
+              <mxPoint x="-440" y="1110" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-93" value="AcC132510300&lt;br&gt;004246&lt;br&gt;Button Raw Caramel Milk CIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-94" value="TON" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="970" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-601" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-98" value="S3TSP32510300 x 1s&lt;br&gt;404046&lt;br&gt;CIP Step 3: CIP Pump Circulation time SP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="1040" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-480" y="1000.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-100" value="CIP51StopActive&lt;br&gt;004223&lt;br&gt;CIP 51 Stop is active" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="pyc0e8YHPOAbfdBveA92-103" target="pyc0e8YHPOAbfdBveA92-105" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-103" value="AcC132510300&lt;br&gt;004246&lt;br&gt;Button Raw Caramel Milk CIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" source="pyc0e8YHPOAbfdBveA92-105" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-602" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-105" value="S4C132510300&lt;br&gt;CIP Milk Step 3: CIP Drain" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-106" target="pyc0e8YHPOAbfdBveA92-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-106" value="TON" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1480" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" source="pyc0e8YHPOAbfdBveA92-108" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-601" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-108" value="S4TSP32510300 x 1s&lt;br&gt;404047&lt;br&gt;CIP Step 4: Emptying Max time SP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="1550" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-109" target="pyc0e8YHPOAbfdBveA92-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-109" value="LE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="1445" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1110" y="1545" as="sourcePoint" />
+            <mxPoint x="-1060" y="1545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="pyc0e8YHPOAbfdBveA92-113" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1063.0000000000005" y="1475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-113" value="LEPm32510202&lt;br&gt;400614&lt;br&gt;Raw Caramel tank level" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="1445" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-115" value="50" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="1535" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-116" target="pyc0e8YHPOAbfdBveA92-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-116" value="RsC132510300&lt;br&gt;004334&lt;br&gt;Reset CIP Milk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="1515" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-117" target="pyc0e8YHPOAbfdBveA92-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-117" value="AutoCIP_NewLogic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="1515" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-118" value="RsC132510300&lt;br&gt;004334&lt;br&gt;Reset CIP Milk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="1515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-122" target="pyc0e8YHPOAbfdBveA92-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-122" value="RsC132510300&lt;br&gt;004334&lt;br&gt;Reset CIP Milk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="1385" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pyc0e8YHPOAbfdBveA92-123" target="pyc0e8YHPOAbfdBveA92-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-350" y="1550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-350" y="1415" />
+              <mxPoint x="-350" y="1545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyc0e8YHPOAbfdBveA92-123" value="AcC132510300&lt;br&gt;004246&lt;br&gt;Button Raw Caramel Milk CIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1385" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
